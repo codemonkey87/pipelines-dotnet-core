@@ -1,3 +1,4 @@
+[![Build Status](https://betfredretail.visualstudio.com/Retail%20App%20Development/_apis/build/status/Retail%20App%20Development-CI%20(1)?branchName=master)](https://betfredretail.visualstudio.com/Retail%20App%20Development/_build/latest?definitionId=3?branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
